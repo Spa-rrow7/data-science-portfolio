@@ -1,16 +1,41 @@
-# 💼 Портфолио Аналитика
 
-Добро пожаловать! Меня зовут Мурат, и это моё портфолио начинающего аналитика данных. Здесь вы найдёте проекты, выполненные с использованием Python, SQL  и BI-инструментов.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
-## 📊 Проекты
+---
 
+## 🧠 Обо мне
 
-### 2. Сегментация клиентов
-- 📁 [`northwind-powerbi-dashboard`](https://github.com/Spa-rrow7/northwind-powerbi-dashboard)
-- 🛠️ Power BI 
-- 📄 Цель: Демонстрация навыков работы с Power BI
+Привет! Я — Data Scientist с опытом в анализе данных, машинном обучении и визуализации. Превращаю данные в понятные решения и дашборды. Использую Python, SQL, Power BI, Tableau и машинное обучение для решения реальных бизнес-задач.
 
+---
+
+## 📁 Проекты
+
+| Название проекта | Описание | Технологии |
+|------------------|----------|------------|
+| [🔍 Анализ продаж](./python/sales-analysis) | Исследование и визуализация данных о продажах | Python, Pandas, Seaborn |
+| [🤖 ML для предсказания цен](./ml/real-estate-price-prediction) | Регрессионная модель для предсказания цен недвижимости | scikit-learn, XGBoost |
+| [📊 Northwind Dashboard (Power BI)](./PowerBI/northwind-powerbi-dashboard) | Интерактивный дашборд для анализа продаж на примере Northwind | Power BI |
+| [📈 Tableau Superstore](./Tableau/superstore-dashboard) | Дашборд для анализа данных о продажах | Tableau |
+
+---
 
 ## 📬 Контакты
-- Email:m.kushkhabiev@mail.com
-- Telegram: [@art_475]
+
+<p align="center">
+  <a href="mailto:m.kushkhabiev@mail.ru">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/art_475">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Spa-rrow7">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
