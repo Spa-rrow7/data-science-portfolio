@@ -46,8 +46,7 @@
 ```bash
 ├── notebook.ipynb       # Основной Jupyter ноутбук с кодом и анализом
 └── README.md            # Этот файл
-
----
+```
 
 ## ⚙️ Установка и запуск
 
@@ -58,9 +57,8 @@ git clone --filter=blob:none --sparse https://github.com/Spa-rrow7/data-science-
 cd data-science-portfolio
 git sparse-checkout set BD_Shope
 cd BD_Shope
-
----
+```
 ## 🚀 Запуск Jupyter Notebook
-
-`bash
+```bash
 jupyter notebook
+```
