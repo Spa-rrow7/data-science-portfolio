@@ -44,8 +44,8 @@
 ## 🗂 Структура проекта
 
 ```bash
-├── notebook.ipynb       # Основной Jupyter ноутбук с кодом и анализом
-└── README.md            # Этот файл
+├── Data_Generator&Analysis.ipynb       # Основной Jupyter ноутбук с кодом и анализом
+└── README.md            
 ```
 
 ## ⚙️ Установка и запуск
