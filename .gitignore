@@ -1,2 +1,5 @@
-.ipynb_checkpoints
-mlruns
+# Игнорировать .ipynb_checkpoints только в Customer_Churn_Prediction
+Customer_Churn_Prediction/.ipynb_checkpoints/
+
+# Игнорировать mlruns только в Customer_Churn_Prediction 
+Customer_Churn_Prediction/mlruns/
