@@ -19,8 +19,9 @@
 
 | Название проекта | Описание | Технологии |
 |------------------|----------|------------|
-| [🔍 Shop Data Generator & Analysis](./BD_Shope) | Проект по созданию и анализу базы данных интернет-магазина с использованием PostgreSQL, SQLAlchemy и Jupyter Notebook.
+| [🔍 Shop Data Generator & Analysis](./BD_Shope) | Проект по созданию и анализу базы данных интернет-магазина с     использованием PostgreSQL, SQLAlchemy и Jupyter Notebook. |
 | [🤖 ML для предсказания цен](./real-estate-price-prediction) | Регрессионная модель для предсказания цен недвижимости | scikit-learn, CatBoost |
+| [🤖 Customer Churn Prediction with PySpark](./Customer_Churn_Prediction) | Модель классификации по предсказанию оттока клиентов банка | PySpark, Random Forest |
 | [📊 Northwind Dashboard (Power BI)](./PowerBI) | Интерактивный дашборд для анализа продаж на примере Northwind | Power BI |
 | [📈 Tableau Superstore](./Tableau/superstore-dashboard) | Дашборд для анализа данных о продажах | Tableau |
 | [📊 A/B Testing](./AB_тесты) | Анализ маркетинговой кампании | 
@@ -44,3 +45,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
+
+
+[def]: ./Customer_Churn_Prediction
